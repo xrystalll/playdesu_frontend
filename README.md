@@ -1,2 +1,4 @@
-# playdesu_frontend
-Retro emulator frontend for android based on libretro cores
+# playです
+Its android retro emulator frontend for android with libretro cores and online games library.
+
+Based on [LibretroDroid](https://github.com/Swordfish90/LibretroDroid)
